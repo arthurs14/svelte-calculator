@@ -1,4 +1,4 @@
-## Running Project
+## Svelte Calculator
 
 After you clone or fork this project you can install node packages and begin running!
 
